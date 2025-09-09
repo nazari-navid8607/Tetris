@@ -13,6 +13,7 @@ SPEED = 400  # ms
 # ========================
 
 root = tkinter.Tk()
+root.title("🅣🅔🅣🅡🅘🅢")
 canvas = tkinter.Canvas(root, height=ROWS*SIZE, width=COLUMNS*SIZE)
 canvas.pack()
 
